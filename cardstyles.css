@@ -1,0 +1,23 @@
+/* add your CSS here */
+div{
+
+width: 300px solid black;
+15px solid black;
+padding: 50px;
+margin: 20px;
+outline-style: inset;
+}
+h3{
+font-style: bold;
+font-size: 35px;
+}
+li{
+  list-style: none;
+}
+span{
+font-weight: bold;
+}
+p{
+font-style: italic;
+
+}
