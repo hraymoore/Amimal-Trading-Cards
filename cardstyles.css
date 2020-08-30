@@ -1,35 +1,47 @@
-div{
-width: 300px solid black;
 
-padding: 50px;
-margin: 20px;
-outline-style: inset;
-box-shadow: 10px 10px 5px grey;
+.ariesCard {
+  display: fix;
+  width: 350px;
+  padding: 10px;
+  margin: 10px;
+  border: 10px;
+  outline-style: inset;
 }
 
-h3{
-font-style: bold;
-font-size: 30px;
-text-align: auto;
+.animalName{
+  width: 300px ;
+  border:10 px;
+
+  font-style: bold;
+  font-size: 30px;
+  text-align: auto;
+  outline-style: none;
 }
-li{
+
+ul li {
   list-style: none;
+  font-style: normal;
+  text-align: left;
 }
-span{
-font-weight: bold;
+span {
+  font-weight: bold;
+  outline-style: none;
 }
 .fact {
-font-style: italic;
-font-align: left;
-width: 300px solid black;
-height:300px;
-outline-style: inset;
-box-shadow: 10px 10px 5px grey;
-background-color: lightblue;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: 10px
+  outline-style: none;
+  font-style: italic;
+  font-align: left;
+  background-color: lightblue;
 }
 .Bighornpic {
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-  width:43.5%
+  outline-style: none;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: 10px
+
 }
