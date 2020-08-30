@@ -1,25 +1,22 @@
-
 .ariesCard {
-  display: fix;
-  width: 350px;
-  padding: 10px;
+  width: 300px;
+  padding: 50px;
   margin: 10px;
   border: 10px;
   outline-style: inset;
 }
 
 .animalName{
-  width: 300px ;
-  border:10 px;
-
+  border:10px;
   font-style: bold;
-  font-size: 30px;
+  font-size: 20px;
   text-align: auto;
   outline-style: none;
 }
 
-ul li {
+ul {
   list-style: none;
+  padding-left: 0;
   font-style: normal;
   text-align: left;
 }
@@ -28,20 +25,14 @@ span {
   outline-style: none;
 }
 .fact {
-  width: 300px;
-  padding: 10px;
-  margin: 10px;
-  border: 10px
-  outline-style: none;
   font-style: italic;
-  font-align: left;
-  background-color: lightblue;
 }
 .Bighornpic {
   outline-style: none;
-  width: 300px;
-  padding: 10px;
-  margin: 10px;
   border: 10px
-
 }
+.background {
+  padding: 10px;
+  background-color: lightblue;
+}
+
